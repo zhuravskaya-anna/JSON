@@ -1,0 +1,18 @@
+{
+	"person": {
+	"name":"Ganna",
+	"surname":"Zhuravskaja",
+	"age":28
+	},
+	"pets":[{
+		"number":1,
+		"kind_of_pet":"cat",
+		"name":"Salvador"},
+		{"number":2,
+		"kind_of_pet":"snail",
+		"name":"Lusinda"
+		}],
+
+	"desired_Salary":"500$"
+}
+
