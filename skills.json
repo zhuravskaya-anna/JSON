@@ -1,0 +1,31 @@
+{
+"skills": [
+	"software testing theory",
+	"client-server architecture",
+	"HTTP Server Request Methods",
+	"HTTP server Response codes",
+	"Structures of HTTP requests and responses",
+	"JSON, XML",
+	"API testing  - Postman",
+	"Removing and reading logs from an external server",
+	"Sniffing http web traffic through Charles and Fiddler",
+	"Dev Tools of web browsers Google Chrome, FireFox",
+	"VPN. (tool options)",
+	"Mobile testing",
+	"iOS, Android, guidelines",
+	"Build iOS applications on Xcode",
+	"Build Android applications on Android Studio",
+	"ADB management of android devices",
+	"Setting up proxy and vpn on iOS and Android",
+	"Sniffing  of mobile traffic through Charles and Fiddler on iOS and Android",
+	"Terminal Linux (copy, create, view, move files on servers without a graphical interface)",
+	"Bash scripting, automation of routine tasks on the server",
+	"Access to remote servers",
+	"Basics of SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+	"Postgres database (installation, configuration and use)",
+	"Non-relational database Redis (installation, configuration and use)",
+	"Load testing in Jmeter",
+	"Scrum development methodology",
+	"Python. Learning the basics. Building a client-server application"
+	]
+}
